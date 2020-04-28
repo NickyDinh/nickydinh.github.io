@@ -113,7 +113,7 @@
 <script type="text/javascript" src="js/fullpage.js"></script>
 <script type="text/javascript" src="js/underline.js"></script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.26.0/polyfill.min.js'></script>
-<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 <script>
 $(document).ready(function() {
 //Preloader
